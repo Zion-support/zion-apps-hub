@@ -1,16 +1,18 @@
 # Zion Apps Hub
 
-Live directory of all Zion Tech Group AI tools and microsites: https://ziontechgroup.com/zion-apps-hub/
+Central hub of the **Zion AI App Network** — 100+ AI-powered business apps by Zion Tech Group.
 
-This repo hosts the hub page (`index.html`). The master interlinked directory lives at:
+## Start here
+- 🌐 [Live hub](https://ziontechgroup.com/zion-apps-hub/)
+- 🗂️ [Master directory — zion-app-network](https://github.com/Zion-support/zion-app-network)
+- 📇 [Master A–Z index of all 100 apps](https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md)
+- 🗺️ [Network map](https://github.com/Zion-support/zion-app-network/blob/main/NETWORK.md)
+- 🆕 [App Network Showcase on the homepage](https://ziontechgroup.com/app-network-showcase/)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
 
-- Repo: https://github.com/Zion-support/zion-app-network
-- Live: https://ziontechgroup.com/zion-app-network/
+## Suites
+- **Customer Success AI** — [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/), [Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/), [Support Sentiment Monitor](https://ziontechgroup.com/support-sentiment-monitor/), [NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)
+- **Field Service** — [Zion Field](https://zion-support.github.io/zion-field/), [AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/), [AI Smart Hands Scheduler](https://ziontechgroup.com/ai-smart-hands-scheduler/)
+- **Autonomous AI** — [AI Agent Fleet](https://ai-agent-fleet.ziontechgroup.com), [AI Agent Swarm](https://ai-agent-swarm.ziontechgroup.com), [AI Automation Builder](https://ai-automation-builder.ziontechgroup.com)
 
-## Quick links
-- Homepage: https://ziontechgroup.com
-- Field services suite: https://github.com/Zion-support/zion-app-network/blob/main/docs/FIELD_SERVICES_SUITE.md
-- New apps spotlight: https://github.com/Zion-support/zion-app-network/blob/main/docs/NEW_APPS_SPOTLIGHT.md
-- Plans & pricing: https://ziontechgroup.com/en/plans/
-
-© 2026 Zion Tech Group
+See [NETWORK.md](NETWORK.md) for the interlink map.
