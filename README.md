@@ -25,4 +25,4 @@ Central hub of the **Zion AI App Network** — 710 interconnected AI-powered bus
 See [NETWORK.md](NETWORK.md) for the interlink map.
 
 ---
-© 2026 [Zion Tech Group](https://ziontechgroup.com/) · [Plans & pricing](https://ziontechgroup.com/en/plans/) · [Discovery call](https://ziontechgroup.com/discovery/)
+© 2026 [Zion Tech Group](https://ziontechgroup.com/) · [Plans & pricing](https://ziontechgroup.com/en/plans/) · [Free online Discovery](https://ziontechgroup.com/discovery/)
